@@ -10,6 +10,12 @@
 
 A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
 
+## Acknowledgement
+
+This website is based on the [`academic-homepage`](https://github.com/luost26/academic-homepage) template by [Shitong Luo](https://luost.me/).
+
+If you use this repository as a template for your own homepage, please acknowledge both [Yiqian Wu](https://onethousandwu.com) and [Shitong Luo](https://luost.me/) in your README and/or site footer.
+
 ## User Community
 
 [🏡](https://luost.me/)

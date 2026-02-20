@@ -25,4 +25,7 @@ authors:
   - Xiaogang Jin
 links: 
   Project: https://xh38.github.io/LegoACE/
+  Paper: https://dl.acm.org/doi/10.1145/3757377.3763881
+  Code: https://github.com/xh38/LegoACE-code
+  Supplementary: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3757377.3763881&file=suppl.pdf
 ---

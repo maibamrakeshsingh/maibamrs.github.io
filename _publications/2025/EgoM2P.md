@@ -21,6 +21,7 @@ authors:
   - Siyu Tang
 links:
   Arxiv: https://www.arxiv.org/abs/2506.07886
+  Paper: https://openaccess.thecvf.com/content/ICCV2025/papers/Li_EgoM2P_Egocentric_Multimodal_Multitask_Pretraining_ICCV_2025_paper.pdf
   Project: https://egom2p.github.io/
   Code: https://github.com/ligengen/EgoM2P
 --- 

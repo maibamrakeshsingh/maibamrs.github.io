@@ -3,11 +3,17 @@ primary_name: "Maibam Rakesh Singh"
 # navbar_name: "Your Name"
 
 positions:
-- logo: assets/images/badges/bdu.png
-  name: PostGrad Candidate @ Bharathidasan University
-# - logo: /assets/images/badges/meta.jpg
+- logo: assets/images/badges/bdu.png  # Logo is optional
+  name: PostGrad Candidate <br/>primary_name: "Maibam Rakesh Singh"
+# secondary_name: ""
+# navbar_name: "Your Name"
+
+positions:
+- logo: assets/images/badges/bdu.png  # Logo is optional
+  name: PostGrad Candidate <br/> @ Bharathidasan University
+# - logo: /assets/images/badges/meta.jpg   # Logo is optional
 #   name: Intern at the Codec Avatars Lab, Meta
-# - logo: /assets/images/badges/meta.jpg
+# - logo: /assets/images/badges/meta.jpg   # Logo is optional
 #   name: Intern at the Codec Avatars Lab, Meta
 
 location: Trichy | Imphal | India
